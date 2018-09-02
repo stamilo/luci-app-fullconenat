@@ -2,4 +2,4 @@
 
 本软件包是  [fullconenat]的 LuCI 控制界面
 
-[fullconenat]: https://github.com/Chion82/netfilter-full-cone-nat
+[fullconenat]: https://github.com/LGA1150/openwrt-fullconenat
